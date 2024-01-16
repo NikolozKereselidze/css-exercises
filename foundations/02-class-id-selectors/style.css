@@ -1,0 +1,17 @@
+.paragraph {
+  font: "Verdana", "Dejavu Sans", sans-serif;
+  background-color: rgba(229, 155, 157, 0.991);
+}
+
+#div-2 {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+#div-4 {
+  background-color: rgb(0, 180, 0);
+}

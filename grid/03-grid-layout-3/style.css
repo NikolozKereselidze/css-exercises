@@ -118,3 +118,17 @@
   grid-template-columns: 1fr 1fr 1fr 1fr;
   list-style: none;
 }
+
+/* Nav section */
+
+.nav > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style: none;
+}
+
+/* Footer section */
+
+.footer {
+  grid-column: 1 / -1;
+}
